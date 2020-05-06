@@ -47,3 +47,5 @@ target_compile_definitions(lightvis
     _USE_MATH_DEFINES
 )
 endif()
+
+add_subdirectory(utils)
